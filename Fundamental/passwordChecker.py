@@ -39,3 +39,5 @@ def check_password_strength(password):
 if __name__ == "__main__":
     password = input("Enter a password to check: ")
     check_password_strength(password)
+
+    
